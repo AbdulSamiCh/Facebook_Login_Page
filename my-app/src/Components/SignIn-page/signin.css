@@ -1,0 +1,15 @@
+.style {
+    width: 35rem;
+}
+
+.blu {
+    border-color: rgb(226, 197, 197);
+}
+
+.signup-btn {
+    border: none;
+    width: 10rem;
+    background: rgb(12, 223, 23);
+    border-radius: 5px;
+    height: 40px;
+}
